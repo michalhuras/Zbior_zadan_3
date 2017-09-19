@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1505838008 source:c:\users\u¿ytkownik\desktop\kursy\c++\zbior_zadan_3\zadanie 1\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<cstdlib>
+	<time.h>
+
